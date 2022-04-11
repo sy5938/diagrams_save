@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T14:58:13.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PIaaejUlHAvYMQKIS5sB" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-11T14:59:59.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="9Lknq2r7_8Cd2WS-YDc-" version="17.4.1" type="github" pages="2">
   <diagram id="Z73tbLHPOR8Vc6FfW8Ey" name="Page-1">
     <mxGraphModel dx="1128" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,11 +229,11 @@
         <mxCell id="7_Mu6DJWakp7cGuOH3Pt-205" value="光谱多样性与物种多样性的关系" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="150.00333333333347" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7_Mu6DJWakp7cGuOH3Pt-207" value="检验光谱变异假说在不同尺度上的拓展性" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="284.9958620689656" y="929.9999999999998" width="120" height="60" as="geometry" />
+        <mxCell id="7_Mu6DJWakp7cGuOH3Pt-207" value="检验光谱变异假说在小尺度上的拓展性" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="388.4958620689656" y="929.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_Mu6DJWakp7cGuOH3Pt-212" value="探究影响光谱多样性的因素" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="445.25172413793115" y="929.9999999999998" width="120" height="60" as="geometry" />
+          <mxGeometry x="593.5017241379312" y="929.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
