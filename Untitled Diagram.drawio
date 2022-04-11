@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T14:56:08.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="hYhkKuSEb0M6wo9WNJv4" version="17.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-11T14:58:13.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PIaaejUlHAvYMQKIS5sB" version="17.4.1" type="github" pages="2">
   <diagram id="Z73tbLHPOR8Vc6FfW8Ey" name="Page-1">
     <mxGraphModel dx="1128" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_Mu6DJWakp7cGuOH3Pt-48" value="冠层可见光图像采集" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7_Mu6DJWakp7cGuOH3Pt-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7_Mu6DJWakp7cGuOH3Pt-57" target="7_Mu6DJWakp7cGuOH3Pt-58">
           <mxGeometry relative="1" as="geometry" />
@@ -193,8 +193,8 @@
         <mxCell id="7_Mu6DJWakp7cGuOH3Pt-179" value="掩膜处理——获取植被区域" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="680" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7_Mu6DJWakp7cGuOH3Pt-180" value="光谱多样性指数计算" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="780" width="120" height="50" as="geometry" />
+        <mxCell id="7_Mu6DJWakp7cGuOH3Pt-180" value="基于可见光图像的光谱多样性指数计算" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="780" width="245" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7_Mu6DJWakp7cGuOH3Pt-183" value="地形数据：海拔、坡度、&lt;br&gt;坡向、凹凸度等" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="461.12" y="780" width="144.75" height="50" as="geometry" />
@@ -218,9 +218,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7_Mu6DJWakp7cGuOH3Pt-208" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7_Mu6DJWakp7cGuOH3Pt-198">
+        <mxCell id="7_Mu6DJWakp7cGuOH3Pt-211" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7_Mu6DJWakp7cGuOH3Pt-198" target="7_Mu6DJWakp7cGuOH3Pt-212">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="929.9999999999998" as="targetPoint" />
+            <mxPoint x="448.55172413793116" y="939.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7_Mu6DJWakp7cGuOH3Pt-198" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=0;rotation=-90;" vertex="1" parent="1">
@@ -231,6 +231,9 @@
         </mxCell>
         <mxCell id="7_Mu6DJWakp7cGuOH3Pt-207" value="检验光谱变异假说在不同尺度上的拓展性" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="284.9958620689656" y="929.9999999999998" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_Mu6DJWakp7cGuOH3Pt-212" value="探究影响光谱多样性的因素" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="445.25172413793115" y="929.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
