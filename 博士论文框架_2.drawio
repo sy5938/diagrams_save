@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="技术路线图" id="mQfqwQIYqqr6NxR5Nnwi">
-    <mxGraphModel dx="1928" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,8 @@
         <mxCell id="ZNrnWP-VKCsw-JMFQ_0V-7" value="ForestGEO样地&lt;br&gt;树木高度数据库" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="525" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZNrnWP-VKCsw-JMFQ_0V-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;本研究中野外调查、遥感及模型提取的数据库&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;fontColor=#D32F2F;" parent="1" vertex="1">
-          <mxGeometry x="555" y="405" width="325" height="25" as="geometry" />
+        <mxCell id="ZNrnWP-VKCsw-JMFQ_0V-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;本研究中基于野外调查、遥感及模型构建的数据库&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;fontColor=#D32F2F;" parent="1" vertex="1">
+          <mxGeometry x="520" y="405" width="370" height="25" as="geometry" />
         </mxCell>
         <mxCell id="xP7PlJAVUtk49BZv3N8O-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="xP7PlJAVUtk49BZv3N8O-78">
           <mxGeometry relative="1" as="geometry" />
