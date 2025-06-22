@@ -4,136 +4,136 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-35" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;strokeDashArray=5 5;fillColor=#FAFAFA;dashed=1;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-35" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;strokeDashArray=5 5;fillColor=#FAFAFA;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="480" width="340" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-36" value="Step1: The supply-demand balance of ESs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#D32F2F;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-36" value="Step1: The supply-demand balance of ESs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#D32F2F;" parent="1" vertex="1">
           <mxGeometry x="160" y="490" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-37" value="Ecosystem services types" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-37" value="Ecosystem services types" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="160" y="520" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-38" value="Supply services&lt;br&gt;土地产出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-38" value="Supply services&lt;br&gt;土地产出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="170" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-39" value="Cultural services&lt;br&gt;文化服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-39" value="Cultural services&lt;br&gt;文化服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="310" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-40" value="Support services&lt;br&gt;支持服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-40" value="Support services&lt;br&gt;支持服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="170" y="610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-41" value="Regulation services&lt;br&gt;调节服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-41" value="Regulation services&lt;br&gt;调节服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1976D2;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="310" y="610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-42" value="Ecosystem service&lt;br&gt;supply index (ES)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E8;strokeColor=#388E3C;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-42" value="Ecosystem service&lt;br&gt;supply index (ES)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E8;strokeColor=#388E3C;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="170" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-43" value="Ecosystem service&lt;br&gt;demand index (ED)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E8;strokeColor=#388E3C;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-43" value="Ecosystem service&lt;br&gt;demand index (ED)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E8;strokeColor=#388E3C;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="310" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-44" value="Supply-demand ratio (ESDI)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-44" value="Supply-demand ratio (ESDI)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="160" y="720" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-45" value="Overall imbalance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#F57F17;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-45" value="Overall imbalance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#F57F17;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="210" y="750" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-46" value="Structural imbalance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#F57F17;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-46" value="Structural imbalance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#F57F17;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="330" y="750" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;strokeDashArray=5 5;fillColor=#FAFAFA;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-47" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;strokeDashArray=5 5;fillColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="150" y="810" width="340" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-48" value="Step2: The adjust factors based on ES security" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#D32F2F;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-48" value="Step2: The adjust factors based on ES security" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#D32F2F;" parent="1" vertex="1">
           <mxGeometry x="160" y="820" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-49" value="Security Theory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-49" value="Security Theory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="160" y="850" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-50" value="The carrying capacity related to human activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-50" value="The carrying capacity related to human activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="160" y="875" width="320" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-51" value="Security status adjustment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-51" value="Security status adjustment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="180" y="905" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-52" value="Weights among ESs types" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-52" value="Weights among ESs types" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F3E5F5;strokeColor=#7B1FA2;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="320" y="905" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-53" value="UEP: the urgency index of&lt;br&gt;occupational ecological&lt;br&gt;supply" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-53" value="UEP: the urgency index of&lt;br&gt;occupational ecological&lt;br&gt;supply" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="180" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-54" value="PET: the priority index&lt;br&gt;of each ES type in&lt;br&gt;supply" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-54" value="PET: the priority index&lt;br&gt;of each ES type in&lt;br&gt;supply" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="320" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-55" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;strokeDashArray=5 5;fillColor=#FAFAFA;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-55" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;strokeDashArray=5 5;fillColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="530" y="480" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-56" value="Ecological Sensitivity Assessment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-56" value="Ecological Sensitivity Assessment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="540" y="490" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-57" value="(Including sensitive areas&lt;br&gt;like dual-input-dual-output)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-57" value="(Including sensitive areas&lt;br&gt;like dual-input-dual-output)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="540" y="515" width="300" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-58" value="Step3: Ecosystem service scarcity supply capacity (ESSSC)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#D32F2F;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-58" value="Step3: Ecosystem service scarcity supply capacity (ESSSC)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#D32F2F;" parent="1" vertex="1">
           <mxGeometry x="540" y="550" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-59" value="ESSSC = UEP × ∑(PETi,j × ESi,j)&lt;br&gt;                    i=1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;fontSize=11;fontStyle=2;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-59" value="ESSSC = UEP × ∑(PETi,j × ESi,j)&lt;br&gt;                    i=1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;fontSize=11;fontStyle=2;" parent="1" vertex="1">
           <mxGeometry x="560" y="580" width="260" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-60" value="ESSSC aims to reflect the supply capacity of a single ES type in a&lt;br&gt;specific region. Each ES type may have different PET values, and the&lt;br&gt;sum of PET for each ES type in a region must equal 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-60" value="ESSSC aims to reflect the supply capacity of a single ES type in a&lt;br&gt;specific region. Each ES type may have different PET values, and the&lt;br&gt;sum of PET for each ES type in a region must equal 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="540" y="625" width="300" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-61" value="Extremely important&lt;br&gt;supply areas (Class I)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#F57C00;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-61" value="Extremely important&lt;br&gt;supply areas (Class I)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#F57C00;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="890" y="490" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-62" value="Important supply areas&lt;br&gt;(Class2)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#F57C00;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-62" value="Important supply areas&lt;br&gt;(Class2)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#F57C00;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="890" y="540" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-63" value="General supply areas&lt;br&gt;(Class 3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#F57C00;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-63" value="General supply areas&lt;br&gt;(Class 3)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#F57C00;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="890" y="590" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;strokeDashArray=5 5;fillColor=#FAFAFA;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;strokeDashArray=5 5;fillColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="530" y="710" width="500" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-65" value="Step4: Construction of ESP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#D32F2F;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-65" value="Step4: Construction of ESP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;fontColor=#D32F2F;" parent="1" vertex="1">
           <mxGeometry x="540" y="720" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-66" value="Identify ecological sources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-66" value="Identify ecological sources" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="690" y="750" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-67" value="Ecological resistance&lt;br&gt;surface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-67" value="Ecological resistance&lt;br&gt;surface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="560" y="800" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-68" value="(resistance coefficients&lt;br&gt;of land use types)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-68" value="(resistance coefficients&lt;br&gt;of land use types)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="560" y="830" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-69" value="Extract ecological corridors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E8;strokeColor=#388E3C;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-69" value="Extract ecological corridors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E8;strokeColor=#388E3C;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="710" y="800" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-70" value="Extract ecological nodes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E8;strokeColor=#388E3C;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-70" value="Extract ecological nodes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F5E8;strokeColor=#388E3C;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="710" y="840" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-71" value="Ecological security patterns (ESP)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#F57F17;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-71" value="Ecological security patterns (ESP)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#F57F17;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="880" width="200" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="620" as="sourcePoint" />
             <mxPoint x="520" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-73" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-73" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="690" as="sourcePoint" />
             <mxPoint x="690" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-74" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-74" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="820" as="sourcePoint" />
             <mxPoint x="520" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_0T6k4tGbEaEnZlmFoHE-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1">
+        <mxCell id="_0T6k4tGbEaEnZlmFoHE-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="870" as="sourcePoint" />
             <mxPoint x="780" y="880" as="targetPoint" />
